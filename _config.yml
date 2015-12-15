@@ -1,0 +1,28 @@
+name: ReginaRoman
+favicon: null
+layout_spectrum: 0.5694385250099003
+typography_spectrum: 0.3589664022438228
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48990794946439564
+  lightness: 0.018695255974307656
+  saturation: 0.6958266624715179
+  rhythmicContrast: 0.6517052182462066
+purpose: []
