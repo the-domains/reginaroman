@@ -1,37 +1,40 @@
 ---
-title: Getting Started on The Grid
-description: Click the pencil icon in the bottom left to read more...
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
+inLanguage: null
+starred: false
+keywords: []
+description: 'Malagueña de nacimiento, mediadora familiar por convicción, actriz por pasión y escritora por vocación. Considera que uno de sus mejores logros en la vida ha sido encontrar respuesta a la pregunta "¿cómo ser feliz y no morir en el intento?". Ama los finales felices, escribe con la intención primera de entretener, y no aspira a una butaca en la Real Academia, le basta un taburete en la Academia del Bienestar. Porque si hay un monje que vendió su Ferrari, Regina es la monja que regaló su Porsche Cayenne. '
+datePublished: '2015-12-15T18:16:06.781Z'
+dateModified: '2015-12-15T18:15:55.675Z'
+title: Biografía
 author: []
-datePublished: '2015-12-15T18:10:47.589Z'
-dateModified: '2015-12-15T18:10:23.648Z'
 sourcePath: _posts/2015-12-15-getting-started-on-the-grid.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: getting-started-on-the-grid/index.html
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Getting Started on The Grid
+Biografía
 
-Welcome to The Grid Beta, we're excited to have you onboard! Here are a few quick tips to get you up and running. 
-
-## Creating a Site
-
-From your drafts dashboard, click the "Drafts" dropdown menu to reveal the site switcher. Select "Add a Site" to begin the site creation process.
+Malagueña de nacimiento, mediadora familiar por convicción, actriz por 
+pasión y escritora por vocación. Considera que uno de sus mejores logros
+en la vida ha sido encontrar respuesta a la pregunta "¿cómo ser feliz y
+no morir en el intento?". Ama los finales felices, escribe con la 
+intención primera de entretener, y no aspira a una butaca en la Real 
+Academia, le basta un taburete en la Academia del Bienestar. Porque si 
+hay un monje que vendió su Ferrari, Regina es la monja que regaló su 
+Porsche Cayenne. null
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
-
-The name you choose during site creation will also be your domain (thegrid.ai/SiteName). Choose something cool, but don't stress over it -- you can change it later.
-
-**When will your site be live?** After going through the site creation process, your site won't actually be "live" until you start adding posts and publishing content. 
-
-## Adding Your Content
-
-There are a few ways to add content to your sites.
-
-1. **Share from the web**. To add content from anywhere on the web, install The Grid Chrome extension via this link: http://thegr.id/1IRWuyn. Then simply right-click the content you want to share, and select the Grid icon with "share" next to it. It'll appear as a post on your drafts dashboard.
+null
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
 
 **Note**: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
