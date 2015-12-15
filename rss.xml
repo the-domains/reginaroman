@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ReginaRoman]]></title>
         <description><![CDATA[ReginaRoman]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reginaroman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Dec 2015 18:10:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Dec 2015 18:10:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reginaroman/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/reginaroman/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">24e34a20-ad6e-47ca-8d69-04e3efc9343d</guid>
-            <pubDate>Tue, 15 Dec 2015 18:10:23 GMT</pubDate>
+            <pubDate>Tue, 15 Dec 2015 18:10:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
