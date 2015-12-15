@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Malagueña de nacimiento, mediadora familiar por convicción, actriz por pasión y escritora por vocación. Considera que uno de sus mejores logros en la vida ha sido encontrar respuesta a la pregunta "¿cómo ser feliz y no morir en el intento?". Ama los finales felices, escribe con la intención primera de entretener, y no aspira a una butaca en la Real Academia, le basta un taburete en la Academia del Bienestar. Porque si hay un monje que vendió su Ferrari, Regina es la monja que regaló su Porsche Cayenne. '
-datePublished: '2015-12-15T18:16:06.781Z'
-dateModified: '2015-12-15T18:15:55.675Z'
+datePublished: '2015-12-15T18:26:18.676Z'
+dateModified: '2015-12-15T18:26:08.208Z'
 title: Biografía
 author: []
 sourcePath: _posts/2015-12-15-getting-started-on-the-grid.md
@@ -23,7 +23,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Biografía
+iografía
 
 Malagueña de nacimiento, mediadora familiar por convicción, actriz por 
 pasión y escritora por vocación. Considera que uno de sus mejores logros
@@ -32,14 +32,9 @@ no morir en el intento?". Ama los finales felices, escribe con la
 intención primera de entretener, y no aspira a una butaca en la Real 
 Academia, le basta un taburete en la Academia del Bienestar. Porque si 
 hay un monje que vendió su Ferrari, Regina es la monja que regaló su 
-Porsche Cayenne. null
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif)
-null
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
+Porsche Cayenne. ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ace29033602f2d9baec3/file-B9ogQ0DNxU.gif)
 
-**Note**: Attempting to share from pages that require login (like Facebook), won't work - The Grid will only grab the content from the landing page/login page.
-
-1. **Share via the Post Editor.** The plus icon at the top right of the screen will take you into The Grid post editor where you can add photos and write short and long form articles.
+photos and write short and long form articles.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ad359033602f2d9baec5/file-mCAgjRD5iA.gif)
 
 ### Editing a Post
@@ -70,71 +65,10 @@ You can choose from one of four post types...
 Clicking on an image within post will allow you to move it up or down in your post, or add details like title, caption, source URL, and more.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616adf5c6979115d6ba721d/file-98tflbKdDO.gif)
 
-Posts will be auto saved as you type. To close the post editor click the "X" button on the top left.
+### Csoon!
 
-### Publishing and Deleting a Post
-
-Once you've got a draft sitting on your Post Dashboard, click it to open the publish/delete menu. You'll see a blue "@" icon appear on the right of the screen and a red trash icon appear on the left.
-
-Clicking "@" will allow you to select an existing site to publish your post to, or create a brand new site. 
-
-Clicking the trash icon will delete your post from your drafts, as well as any site that it's already been published to.
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616af689033602f2d9baee6/file-Y0Br9u0Ni6.gif)
-
-## Managing Your Sites
-
-To manage, edit, and view your site, select your site from the site switcher menu. From here, you can navigate to...
-
-1. **Content:** Content that has been published to your site. Once site content is moved from drafts to a specific site, it will no longer be shown in your "drafts" dashboard.
-2. **Info:** A place to edit your site info (Name, URL, Google Analytics ID).
-3. **Design:** Where you'll go to modify the layout, typography, and color of your site. 
-4. **View Site:** This link will take you to your real, live site on the real, live Internet!
-![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616afc3c6979115d6ba7237/file-pbVlV09APH.gif)
-
-### Changing the Design of Your Site
-
-Now that you have content on your site, The Grid really starts to work its magic. Our AI will continually adjust your site design based on the content you post. The Grid is adaptive, and will update your site's design as you adjust design parameters. 
-
-When in the Design section of your site, start by uploading a brand image - this will establish a color palette for your site and allow The Grid's AI to make adjustments that align with the image you choose. 
-
-Your site should be unique. That's why you don't see options to choose from. Instead you see spectrums of possibility. Slide them around and watch how the Grid evolves your design accordingly.
-
-1. **Color**: The color slider will change how color is distributed and displayed on your site.
-2. **Layout**: The layout slider changes the rhythm and flow of your site. We'll have more changes coming to the layout spectrum options soon!
-3. **Type**: The typography slider will allow you to choose a variety of font combinations for your site, from formal to informal.
-
-Occasionally The Grid will apply image filters to conform your content to your color palette.
-
-After changes have been selected and saved, you'll get a notification via The Grid chrome extension that your site redesign is complete.
+1. **Type**:
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616afe9c6979115d6ba723b/file-g2L5ZjQ5LU.gif)
-
-## Install The Grid browser extension
-
-The Grid Chrome extension makes it easy to share content to your Grid sites from anywhere on the web. Once installed, all you have to do is right click on a site, image, link, or article, and click the "Share". 
-
-You'll also get real time notifications from The Grid's AI designer when your site design options are ready for review, or the new content you shared to a site has been published.
-
-**To install the The Grid Chrome extension, head on over here**: http://thegr.id/1IRWuyn.
-
-Once you've installed The Grid Chrome Extension, clicking The Grid icon in the top right corner will take you right back to your site dashboard, as long as you are logged into your account.
 ![](https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/561671909033600ce5c51f6c/file-Obcq852pFY.gif)
 
-**NOTE**: The Grid web app is optimized for Google Chrome, at least during beta. We can't promise optimal performance in other browsers at the moment, but will be working towards addressing this soon.
-
-Don't have Google Chrome? Get it here: https://www.google.com/chrome/browser/desktop
-
-## Install The Grid on your mobile phone
-
-To quickly share content from your mobile phone, install our iPhone and Android apps below:
-
-**Android** - Install The Grid for Android here: https://play.google.com/store/apps/details?id=io.thegrid.app
-
-**iOS** - Install The Grid for iOS here: https://itunes.apple.com/us/app/the-grid./id990744597
-
-## Let us know how it's going!
-
-We want to hear your feedback! (It is Beta, after all.) So if you find a bug, something isn't working as you'd expect, or you have an idea of something to add, there are a few ways to get in touch with us: 
-
-* Send us a message via the "Help" link.
-* Email us at feedback@thegrid.io
-* Feeling stuck? Head over to http://help.thegrid.io for more detailed walkthroughs on site creation, custom domains, post management, and much more!
+**iOS** - Install The Grid for iOS here: https://itunes.apple.com/us/app/the-grid./id
